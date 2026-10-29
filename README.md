@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Files Free Installer** — Files is a modern, open-source file manager for Windows with a beautiful design that complements Windows 11 aesthetics. Works without internet access, no account required. Full offline installation.
+**💻 Files Free Installer** — Files is a free, modern file manager for Windows that brings a tabbed, multi-pane interface, git integration, cloud storage support, and a visually polished design to Windows file management — offering a dramatically improved experience over Windows Explorer. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Files
 
-Files is a modern, open-source file manager for Windows with a beautiful design that complements Windows 11 aesthetics. Features include tabbed navigation, dual-pane mode, integrated archive management, Git integration, and a rich preview panel. Built with community contributions, Files delivers the modern file management experience that Windows Explorer lacks.
+Files is a free, modern file manager for Windows that brings a tabbed, multi-pane interface, git integration, cloud storage support, and a visually polished design to Windows file management — offering a dramatically improved experience over Windows Explorer.
 
 ---
 
 ## ❌ Problem: Files is hard to access
 
-- **Windows Only** — Designed exclusively for Windows
-- **Store Distribution** — Primary distribution through Microsoft Store
-- **Early Features** — Some advanced features still in development
-- **Git Dependency** — Git integration features require Git installation
+- **Windows Only** — Not available on macOS or Linux
+- **Performance** — Can be slower than native Windows Explorer for very large directories
+- **Feature Completeness** — Some advanced operations fall back to Windows Explorer behavior
+- **Early Development** — Some features are still being refined compared to mature alternatives
 
 ---
 
@@ -121,7 +121,7 @@ Files is a modern, open-source file manager for Windows with a beautiful design 
 
 ---
 
-**Files Free Installer** — Files is a modern, open-source file manager for Windows with a beautiful design that complements Windows 11 aesthetics. Install without internet connection today!
+**Files Free Installer** — Files is a free, modern file manager for Windows that brings a tabbed, multi-pane interface, git integration, cloud storage support, and a visually polished design to Windows file management — offering a dramatically improved experience over Windows Explorer. Install without internet connection today!
 
 <div align="center">
 
